@@ -1,0 +1,6 @@
+Program started
+Cleaning old build...
+Building CUDA program using nvcc
+Running GPU image processing kernel
+Image processed successfully
+Program finished
